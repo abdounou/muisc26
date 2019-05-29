@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=475233499641806849
+prefix=x
+game=, - Miròx#5390 
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTgzMjg5MTk4NTMwNzg5Mzc2.XO6OMw.-3vQm9Bqo1UEFTd-QnEHds5fGbs
